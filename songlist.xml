@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<songlist>
+    <song class = "favorites enemy">
+        <title>Enemy</title>
+        <artists>Artist(s): Imagine Dragons and JID</artists>
+        <genre>Genre: Soul</genre>
+        <year>Year released: 2021</year>
+        
+    </song>
+    <song class = "hello">
+        <title>Hello</title>
+        <artists>Artist(s): Adele</artists>
+        <genre>Genre: Pop</genre>
+        <year>Year released: 2015</year>
+    </song>
+    <song class = "levitating">
+        <title>Levitating</title>
+        <artists>Artist(s): Dua Lipa</artists>
+        <genre>Genre: Pop</genre>
+        <year>Year released: 2020</year>
+    </song>
+    <song class = "favorites billie">
+        <title>Happier than ever</title>
+        <artists>Artist(s): Billie Eilish</artists>
+        <genre>Genre: Alternative/Indie</genre>
+        <year>Year released: 2021</year>
+    </song>
+    <song  class = "hello">
+        <title>I drink wine</title>
+        <artists>Artist(s): Adele</artists>
+        <genre>Genre: Pop</genre>
+        <year>Year released: 2021</year>
+    </song>
+    <song  class = "fly">
+        <title>Fly me to the moon</title>
+        <artists>Artist(s): Frank Sinatra</artists>
+        <genre>Genre: Jazz</genre>
+        <year>Year released: 1964</year>
+    </song>
+    <song  class = "kanye">
+        <title>I love Kanye</title>
+        <artists>Artist(s): Kanye West</artists>
+        <genre>Genre: Hip-Hop</genre>
+        <year>Year released: 2016</year>
+    </song>
+    <song  class = "drake">
+        <title>Certified Lover Boy</title>
+        <artists>Artist(s): Drake</artists>
+        <genre>Genre: Hip-Hop</genre>
+        <year>Year released: 2021</year>
+    </song>
+    <song class = "sindbad">
+        <title>Sindbad</title>
+        <artists>Artist(s): Shabjdeed</artists>
+        <genre>Genre: Hip-Hop</genre>
+        <year>Year released: 2021</year>
+    </song>
+    <song class = "drake">
+        <title>Fair Trade</title>
+        <artists>Artist(s): Drake</artists>
+        <genre>Genre: Hip-Hop</genre>
+        <year>Year released: 2021</year>
+    </song>
+    <song class = "florida">
+        <title>Florida</title>
+        <artists>Artist(s): Marwan Moussa</artists>
+        <genre>Genre: Hip-Hop</genre>
+        <year>Year released: 2021</year>
+    </song>
+    
+</songlist>

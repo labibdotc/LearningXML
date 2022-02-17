@@ -1,0 +1,46 @@
+song.favorites{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+}
+
+song{
+    display: block;
+    border: 1px solid whitesmoke;
+}
+song.enemy{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(Unknown.jpeg);
+}
+song.hello{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(hello.jpeg);
+}
+song.levitating{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(levitating.jpeg);
+}
+song.billie{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(billie-eilish-2160x1200-1.jpeg);
+}
+song.fly{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(fly.jpeg);
+}
+song.kanye{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(KanyeWest2.jpeg);
+}
+song.sindbad{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(sindbad.jpeg);
+}
+song.florida{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(florida.jpeg);
+}
+song.drake{
+    background-image: linear-gradient(rgba(43, 6, 6, 0.7), rgba(4, 43, 43, 0.7)), url(drake.jpeg);
+}
+title{
+    font-size: xx-large;
+    font-weight: bold;
+    color: wheat;
+}
+
+title, artists, genre, year{
+    display: block;
+    color: white;
+}
